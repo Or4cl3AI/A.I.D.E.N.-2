@@ -1,0 +1,6 @@
+Shared dependencies between the generated files:
+
+1. LiquidGenerativeConvolutionalCognitiveRecurrentAttentiveAdversarialProgressiveNeuralNetwork
+2. network
+3. mutatedNetwork
+4. mutation_rate
